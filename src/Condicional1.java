@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Condicional11 {
+public class Condicional1 {
 
     public static void main(String[] args) {
 
