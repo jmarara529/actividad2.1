@@ -7,6 +7,7 @@ public class Condicional7 {
     public static double AmericaS = 21.00;
     public static double Europa = 10.00;
     public static double Asia = 18.00;
+
     public static void main(String[] args) {
 
         double peso;
